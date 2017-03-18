@@ -1,2 +1,3 @@
 Lista de Recomendaciones:
 1. Crear cuenta en github.
+	1.1 Loguearse en github.com.
