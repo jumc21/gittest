@@ -2,3 +2,4 @@ Lista de Recomendaciones:
 1. Crear cuenta en github.
 	1.1 Loguearse en github.com.
 2. Crear Repositorio.
+3. Actualizar Repositorio.
